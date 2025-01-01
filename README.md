@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs: an infinite loop caused by flawed conditional logic.  The `200-PROCESS-DATA` section contains a condition that will never become true, resulting in an endless loop. The solution shows how to correct the logic to ensure proper termination.
